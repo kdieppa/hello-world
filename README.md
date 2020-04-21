@@ -2,5 +2,6 @@
 
 Hello! 
 
-My name is Kathy and this is my first time using github. 
-I'm looking forward to learning about Node.js.
+My name is Kathy. I'm hoping to learn how I can use github to power web maps and web sites.
+
+
